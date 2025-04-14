@@ -42,7 +42,7 @@ switch(op){
 }
 //Verificar qual letra é igual
 let letra = prompt('Digite uma letra: ').toUpperCase()
-
+//Quando usamos switch(variavel), o switch compara exatamente o valor da variavel com os cases definidos
 switch(letra){
     case "A":
         case "E":
