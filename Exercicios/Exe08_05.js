@@ -7,5 +7,5 @@ for (let i = 0; i < 5; i++) {
 console.log(numbers);
 
 for (let i = 0; i < numbers.length; i++) {
-    console.log(`Number: ${numbers[i]}, Double: ${numbers[i] * 2}`);
+    console.log(`Numero: ${numbers[i]}, Dobro: ${numbers[i] * 2}`);
   }
