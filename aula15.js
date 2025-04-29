@@ -48,4 +48,8 @@ function media(nr1, nr2){
 console.log(media(6,8));
 let valor = media(9,7)
 console.log(valor);
-ParImpar(valor)
+ParImpar(valor
+
+
+    
+)

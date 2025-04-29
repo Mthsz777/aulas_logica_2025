@@ -12,7 +12,7 @@ for(let i = 0; i < 10; i++){
     if(sexo == 'M'){
         mediaH += idade
         qtdH++
-    }else{
+    }else{s
         mediaF += idade
         qtdF++
     }
